@@ -210,8 +210,3 @@ pipeline {
 
 ---
 
-## 10. Licencia
-
-DMC © 2025 — Miguelangel / DMC Institute
-Se permite uso comercial y modificación bajo los términos de la licencia.
-
